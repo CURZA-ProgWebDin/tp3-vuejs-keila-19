@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": ".vscode",
+			"path": "../tp3-vuejs-keila-19/.vscode"
+		},
+		{
+			"name": "src",
+			"path": "../tp3-vuejs-keila-19/src"
+		},
+		{
+			"name": "node_modules",
+			"path": "../tp3-vuejs-keila-19/node_modules"
+		},
+		{
+			"name": "public",
+			"path": "../tp3-vuejs-keila-19/public"
+		},
+		{
+			"name": "mi-carpeta-nueva",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
