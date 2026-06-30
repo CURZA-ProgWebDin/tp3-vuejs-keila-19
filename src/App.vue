@@ -11,7 +11,7 @@ import PanelPestanas from './PanelPestanas.vue';
 
 <style scoped>
 main {
-  max-width: 1000px; /* Aumenta este número para que sea más ancho */
+  max-width: 1000px; 
   margin: 0 auto;
   padding: 20px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
